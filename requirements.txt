@@ -1,3 +1,4 @@
+argcomplete==3.5.1
 asttokens==2.4.1
 black==24.10.0
 cfgv==3.4.0
@@ -16,6 +17,7 @@ nodeenv==1.9.1
 packaging==24.2
 parso==0.8.4
 pathspec==0.12.1
+pipx==1.7.1
 platformdirs==4.3.6
 pre_commit==4.0.1
 prompt_toolkit==3.0.48
@@ -27,5 +29,6 @@ stack-data==0.6.3
 tokenize_rt==6.1.0
 traitlets==5.14.3
 typing_extensions==4.12.2
+userpath==1.9.2
 virtualenv==20.27.1
 wcwidth==0.2.13
